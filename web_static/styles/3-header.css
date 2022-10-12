@@ -7,9 +7,9 @@ header {
 }
 
 .logoPic {
-	background-image: url('../images/logo.png');
-	background-repeat: repeat;
+	background-image: url('web_static/images/logo.png');
+	background-repeat: no-repeat;
 	margin-left: 20px;
 	align-items: left;
 	vertical-align: center;
-} 
+}
