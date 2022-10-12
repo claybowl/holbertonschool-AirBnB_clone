@@ -1,8 +1,15 @@
 header {
 	image-orientation: center;
 	background-color: #ffffff;
-	height: 60px;
+	height: 70px;
 	width: 100%;
-	border-bottom: #cccccc;
-	border-bottom: 1px;
+	border-bottom: 1px solid #cccccc;
 }
+
+.logoPic {
+	background-image: url('../images/logo.png');
+	background-repeat: repeat;
+	margin-left: 20px;
+	align-items: left;
+	vertical-align: center;
+} 
