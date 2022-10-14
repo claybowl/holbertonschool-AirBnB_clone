@@ -1,15 +1,16 @@
-header {
+.header {
 	image-orientation: center;
-	background-color: #ffffff;
 	height: 70px;
 	width: 100%;
 	border-bottom: 1px solid #cccccc;
-}
-
-.header {
 	height: 80px;
 	padding: 0 24px;
 	display: flex;
 	align-items: center;
-	box-shadow: rgba(0, )
+	box-shadow: rgba(0, );
+	background: white;
 }
+		header.__logo {
+			background-image: url('../images/logo.png');
+			flex: 1 0 140px;
+		}

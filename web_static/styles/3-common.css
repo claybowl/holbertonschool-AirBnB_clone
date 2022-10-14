@@ -1,9 +1,8 @@
 body {
+	color: rgb(34, 34, 34);
+	font-family: 'Cirucular Book';
 	margin: 0;
-	padding: 0;
-	color: #484848;
 	font-size: 14px;
 	letter-spacing: normal;
 	line-height: 18px;
-	font-family: 'Circular Book', Arial, Helvetica, sans-serif, "Helvetica Neue";
 }
