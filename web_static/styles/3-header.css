@@ -6,10 +6,10 @@ header {
 	border-bottom: 1px solid #cccccc;
 }
 
-.logoPic {
-	background-image: url('web_static/images/logo.png');
-	background-repeat: no-repeat;
-	margin-left: 20px;
-	align-items: left;
-	vertical-align: center;
+.header {
+	height: 80px;
+	padding: 0 24px;
+	display: flex;
+	align-items: center;
+	box-shadow: rgba(0, )
 }
